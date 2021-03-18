@@ -1,4 +1,4 @@
-I'm a Husband, Father, Developer, and Teacher!!
+I'm a front-end-dev
 
     🔭 I just build an excavator website
     🌱 I’m currently learning ... React.js
