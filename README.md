@@ -1,52 +1,54 @@
-Hello there 👋
-My name is Radek and I am Junior Web Developer from Poland. I work as a Junior Salesforce Developer by day. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Gatsby.js. I invite you to check out my projects here.
-<hr>
+<h1>Hello there 👋 </h1><br>
+My name is Tomek and I am Junior Web Developer from Poland. I work as a Junior Salesforce Developer by day. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Gatsby.js. I invite you to check out my projects here.
 
-More about me...
-Studies 👨‍🎓
+
+<h1>More about me... 👨‍🎓</h1>
+Studies 
 Computer Science and Econometrics
 College Of Economics And Computer Science in Cracow
-first degree engineering studies, third-year student
+first degree engineering studies, second-year student
 My interests and hobbys 🎾
-Besides learning I spend my free time playing video games, reading books, trading cryptocurrencies, playing tennis and chess. Trying new things and learning my interests is definitely my cup of tea.
+Besides learning I spend my free time playing video games, gym,cryptocurrencies.
 
-My certification ☁️
+<h1>My certification ☁️ </h1>
 Salesforce Certified Platform Developer I
-certification logo
-
+<img src="https://github.com/radioDevCreations/radioDevCreations/raw/main/2021-03_Badge_SF-Certified_Platform-Developer-I_500x490px.png" alt="certification logo" style="max-width: 100%;">
 Salesforce Certified JavaScript Developer I
-certification logo
 
-My skill set 💻
-high level of knowlage
+<img src="https://github.com/radioDevCreations/radioDevCreations/raw/main/javascript_developer_1.png" alt="certification logo" style="max-width: 100%;">
 
-HTML
-CSS
-Javascript
-good knowledge
 
-Typescript
-Lightning Web Components
-React
-Redux
-React Router
-Styled Components
-Sass
-solid basics and learning every day
+<h3 >My skill set 💻
+high level of knowlage</h3>
+  </div> 
+<ul>
+  <li>HTML</li>
+   <li>CSS</li>
+   <li>JS</li>
+</ul>
+<ul>
+  <h3>good knowledge</h3>
 
-Apex
-SOQL, SOSL
-Gatsby.js
-basics (using from time to time)
+  <li>Typescript</li>
+    <li>Lightning Web Components</li>
+    <li>React</li>
+    <li>Redux</li>
+    <li>Styled Components</li>
+   <li>Sass</li>
+   <li>React Router</li>
+</ul>
+<ul>
+    <h3>solid basics and learning every day</h3>
+  <li>Apex</li>
+    <li>SOQL, SOSL</li>
+    <li>Gatsby.js</li>
+    <li>React Router</li>
+  </ul>
+<ul>
+     <h3>basics (using from time to time)</h3>
+  <li>C#</li>
+    <li>Entity Framework</li>
+    <li>T-SQL</li>
+    <li>React Router</li>
 
-C#
-Entity Framework
-T-SQL
-Python
-Material UI
-Contact me or follow me 💬
-🏙 LinkedIn
-🌄 Trailblazer
-📷 Instagram
-💻 Codepen
-✉ Email: radekrozmus@gmail.com
+</ul>
