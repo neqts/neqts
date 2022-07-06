@@ -18,7 +18,7 @@ Salesforce Certified JavaScript Developer I
 <img src="https://github.com/radioDevCreations/radioDevCreations/raw/main/javascript_developer_1.png" alt="certification logo" style="max-width: 100%;">
 Salesforce Certified App Builder I
 
-<img src="https://i0.wp.com/darrenkowitt.com/wp-content/uploads/2021/07/2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png?resize=700%2C686&ssl=1" alt="certification logo" style="max-width: 100%;">
+<img src="https://i0.wp.com/darrenkowitt.com/wp-content/uploads/2021/07/2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png?resize=700%2C686&ssl=1" alt="certification logo" style="width:400px;height:392px;">
 
 
 <h3 >My skill set 💻
