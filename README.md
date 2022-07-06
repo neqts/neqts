@@ -43,6 +43,8 @@ high level of knowlage</h3>
 <ul>
     <h3>solid basics and learning every day</h3>
   <li>Apex</li>
+  <li>LWC</li>
+  <li>Visualforce</li>
     <li>SOQL, SOSL</li>
     <li>Gatsby.js</li>
     <li>React Router</li>
