@@ -1,5 +1,5 @@
 <h1>Hello there 👋 </h1><br>
-My name is Tomek and I am Junior Web Developer from Poland. I work as a Junior Salesforce Developer by day. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Gatsby.js. I invite you to check out my projects here.
+My name is Tomek and I am Junior Web Developer from Poland. I work as a Junior Salesforce Developer by day. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Gatsby.js. Here are more personal information about me https://www.linkedin.com/in/tomasz-top%C3%B3r-5870a11b9/.
 
 
 <h1>More about me... 👨‍🎓</h1>
@@ -16,6 +16,9 @@ Salesforce Certified Platform Developer I
 Salesforce Certified JavaScript Developer I
 
 <img src="https://github.com/radioDevCreations/radioDevCreations/raw/main/javascript_developer_1.png" alt="certification logo" style="max-width: 100%;">
+Salesforce Certified App Builder I
+
+<img src="https://www.mytutorialrack.com/wp-content/uploads/2020/12/platform-app-builder.jpg" alt="certification logo" style="max-width: 100%;">
 
 
 <h3 >My skill set 💻
@@ -49,6 +52,5 @@ high level of knowlage</h3>
   <li>C#</li>
     <li>Entity Framework</li>
     <li>T-SQL</li>
-    <li>React Router</li>
 
 </ul>
