@@ -1,5 +1,5 @@
 <h1>Hello there 👋 </h1><br>
-My name is Tomek and I am Junior Web Developer from Poland. I work as a Junior Salesforce Developer by day. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Gatsby.js. Here are more personal information about me https://www.linkedin.com/in/tomasz-top%C3%B3r-5870a11b9/.
+My name is Tomek and I am Salesforce Developer from Poland. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Next.js. Here are more personal information about me https://www.linkedin.com/in/tomasz-top%C3%B3r-5870a11b9/.
 
 
 <h1>More about me... 👨‍🎓</h1>
@@ -8,16 +8,13 @@ Computer Science and Econometrics
 College Of Economics And Computer Science in Cracow
 first degree engineering studies, second-year student
 My interests and hobbys 🎾
-Besides learning I spend my free time playing video games, gym,cryptocurrencies.
+Besides learning I spend my free time playing chess,boxing,climbing.
 
 <h1>My certification ☁️ </h1>
-Salesforce Certified Platform Developer II
-<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-II.png" alt="certification logo" style="width:400px;height:392px;">
 Salesforce Certified Platform Developer I
 <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" alt="certification logo" style="width:400px;height:392px;">
-Salesforce Certified Administrator
-<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="certification logo" style="width:400px;height:392px;">
 Salesforce Certified JavaScript Developer I
+
 <img src="https://github.com/radioDevCreations/radioDevCreations/raw/main/javascript_developer_1.png" alt="certification logo" style="max-width: 100%;">
 Salesforce Certified App Builder I
 
