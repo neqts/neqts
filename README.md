@@ -11,10 +11,13 @@ My interests and hobbys 🎾
 Besides learning I spend my free time playing video games, gym,cryptocurrencies.
 
 <h1>My certification ☁️ </h1>
+Salesforce Certified Platform Developer II
+<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-II.png" alt="certification logo" style="width:400px;height:392px;">
 Salesforce Certified Platform Developer I
 <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" alt="certification logo" style="width:400px;height:392px;">
+Salesforce Certified Administrator
+<img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="certification logo" style="width:400px;height:392px;">
 Salesforce Certified JavaScript Developer I
-
 <img src="https://github.com/radioDevCreations/radioDevCreations/raw/main/javascript_developer_1.png" alt="certification logo" style="max-width: 100%;">
 Salesforce Certified App Builder I
 
