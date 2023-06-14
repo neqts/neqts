@@ -3,10 +3,9 @@ My name is Tomek and I am Salesforce Developer from Poland. My passion for progr
 
 
 <h1>More about me... 👨‍🎓</h1>
-Studies <br>
-College Of Economics And Computer Science in Cracow
-first degree engineering studies
-My interests and hobbys 🎾<br>
+I'm studying in College Of Economics And Computer Science in Cracow
+first degree engineering studies<br>
+My interests and hobbys 🎾
 Besides learning I spend my free time playing chess,boxing,climbing.
 
 <h1>My certification ☁️ </h1>
