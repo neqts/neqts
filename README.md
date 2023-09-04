@@ -26,34 +26,31 @@ Salesforce Certified App Builder I
 high level of knowlage</h3>
   </div> 
 <ul>
+  <li>Apex</li>
+    <li>Typescript</li>
+      <li>React</li>
   <li>HTML</li>
    <li>CSS</li>
    <li>JS</li>
+  <li>LWC</li>
 </ul>
 <ul>
   <h3>good knowledge</h3>
-
-  <li>Typescript</li>
-    <li>Lightning Web Components</li>
-    <li>React</li>
     <li>Redux</li>
     <li>Styled Components</li>
-   <li>Sass</li>
-   <li>React Router</li>
+     <li>Next.js</li>
+     <li>Sass</li>
+     <li>React Router</li>
 </ul>
 <ul>
     <h3>solid basics and learning every day</h3>
-  <li>Apex</li>
-  <li>LWC</li>
-  <li>Visualforce</li>
+    <li>Visualforce</li>
     <li>SOQL, SOSL</li>
     <li>Gatsby.js</li>
-    <li>React Router</li>
+    <li>Aura</li>
   </ul>
 <ul>
      <h3>basics (using from time to time)</h3>
   <li>C#</li>
     <li>Entity Framework</li>
-    <li>T-SQL</li>
-
 </ul>
